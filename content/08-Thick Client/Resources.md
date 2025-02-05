@@ -1,0 +1,9 @@
+- https://payatu.com/blog/farid/Thick-Client-Basic
+- https://hariprasaanth.notion.site/hariprasaanth/THICK-CLIENT-PENTESTING-CHECKLIST-35c6803f26eb4c9d89ba7f5fdc901fb0
+- https://www.netspi.com/blog/technical/thick-application-penetration-testing/introduction-to-hacking-thick-clients-part-1-the-gui/
+- https://www.darkrelay.com/post/thick-client-penetration-testing
+- https://www.slideshare.net/AnuragSrivastava176/thick-client-pentestingthehackersmeetupversion10pptx
+- https://abhigowdaa.medium.com/
+- https://workbook.securityboat.in/resources/thick-client-pentesting
+- https://www.cobalt.io/blog/attacking-windows-applications-part-1
+- https://www.cobalt.io/blog/attacking-windows-applications-pt.-2

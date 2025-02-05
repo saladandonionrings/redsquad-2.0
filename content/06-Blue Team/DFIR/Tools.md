@@ -1,0 +1,2 @@
+- [Awesome Cybersecurity Blue Team Tools](https://github.com/fabacab/awesome-cybersecurity-blueteam)
+- [Threat Intelligence Tools](https://github.com/hslatman/awesome-threat-intelligence)
