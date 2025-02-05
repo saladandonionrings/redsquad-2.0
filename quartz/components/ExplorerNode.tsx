@@ -42,11 +42,11 @@ function getPathSegment(fp: FilePath | undefined, idx: number): string | undefin
 
 // Structure to add all files into a tree
 export class FileNode {
-  children: Array<FileNode>
-  name: string // this is the slug segment
-  displayName: string
-  file: QuartzPluginData | null
-  depth: number
+  children: FileNode[]  // children of current node
+  name: string  // last part of slug
+  displayName: string // what actually should be displayed in the explorer
+  file: QuartzPluginData | null // if node is a file, this is the file's metadata. See `QuartzPluginData` for more detail
+  depth: number // depth of current node
 
   constructor(slugSegment: string, displayName?: string, file?: QuartzPluginData, depth?: number) {
     this.children = []
